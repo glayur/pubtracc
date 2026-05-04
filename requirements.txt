@@ -1,6 +1,10 @@
-geopandas
-pandas
-numpy
-matplotlib
-shapely
-ipykernel
+geopandas>=0.14.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+osmnx>=1.5.0
+networkx>=3.0
+openpyxl>=3.0.0
+blocksnet>=1.0.0
+shapely>=2.0.0
+ipykernel>=6.0.0
