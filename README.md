@@ -36,7 +36,7 @@ pubtracc/
 
 ## Полный текст работы
 
-- **PDF-диплом:** [replace.pdf](link-to-pdf) *(будет добавлен после защиты)*
+- **PDF-диплом:** [VKR.pdf](/results/ВКР_Глазов.pdf)
 
 ## Автор
 Глазов Юрий, tg: @eyeeyeeye
