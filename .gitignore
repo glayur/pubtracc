@@ -24,10 +24,3 @@ Thumbs.db
 
 # Логи
 *.log
-
-# Артефакты сборки и экспорта
-output/
-*.html
-*.pdf
-*.png
-*.svg
